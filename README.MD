@@ -83,11 +83,13 @@ To run this app, you need to create an account on [Clerk](https://clerk.dev). Af
 
 ## App Preview 📱
 
-<img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/change_language_tabs.png" width="300" alt="Change Language Tabs" />
-<img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/chinese-i18n-showcase.png" width="300" alt="Chinese i18n Showcase" />
-<img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/home_tabs.png" width="300" alt="Home Tabs" />
-<img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/login.png" width="300" alt="Login" />
-<img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/onboarding.png" width="300" alt="Onboarding" />
-<img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/otp-code-page.png" width="300" alt="OTP Code Page" />
-<img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/register.png" width="300" alt="Register" />
-<img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/settings_tabs.png" width="300" alt="Settings Tabs" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/change_language_tabs.png" width="150" alt="Change Language Tabs" />
+  <img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/chinese-i18n-showcase.png" width="150" alt="Chinese i18n Showcase" />
+  <img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/home_tabs.png" width="150" alt="Home Tabs" />
+  <img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/login.png" width="150" alt="Login" />
+  <img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/onboarding.png" width="150" alt="Onboarding" />
+  <img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/otp-code-page.png" width="150" alt="OTP Code Page" />
+  <img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/register.png" width="150" alt="Register" />
+  <img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/settings_tabs.png" width="150" alt="Settings Tabs" />
+</div>
