@@ -1,0 +1,67 @@
+{
+    "Onboarding": {
+        "Text1": "Explora la aplicación",
+        "Text2": "Elige cómo quieres continuar en la aplicación.",
+        "Text3": "Iniciar sesión",
+        "Text4": "Crear cuenta"
+    },
+    "Auth": {
+        "LoginText": "Iniciar sesión",
+        "LoginDescription": "¡Bienvenido! Inicia sesión para acceder a nuestros servicios.",
+        "RegisterText": "Registrarse",
+        "RegisterDescription": "¿No tienes una cuenta? ¡Regístrate ahora!",
+        "LoginSuccess": "Inicio de sesión exitoso",
+        "LoginSuccessSecond": "¡Disfrútalo! 👋",
+        "LoginFailed": "Inicio de sesión fallido",
+        "LoginFailedSecond": "Se ha producido un error. Por favor, inténtalo de nuevo.",
+        "BtnText": "Registrarse",
+        "RegistrationSuccess": "Registro exitoso",
+        "RegistrationSuccessSecond": "Te has registrado exitosamente.",
+        "RegistrationFailed": "Registro fallido",
+        "RegistrationFailedSecond": "Se ha producido un error. Por favor, inténtalo de nuevo.",
+        "FormTitle": "Iniciar sesión ahora",
+        "FormInputEmail": "Ingrese su dirección de correo electrónico",
+        "FormInputPassword": "Ingrese su contraseña",
+        "FormButtonTitle": "Iniciar sesión",
+        "FormEmailPlaceHolder": "Correo electrónico",
+        "FormPasswordPlaceHolder": "Contraseña",
+        "FormForgotPass": "¿Olvidaste tu contraseña?",
+        "OrTxt": "O inicia sesión con",
+        "NoAccountTxt": "¿No tienes cuenta?",
+        "RegisterNowTxt": "Regístrate ahora",
+        "TOSTXT": "Acepto los términos y la política de privacidad",
+        "AlreadyAcc": "¿Ya tienes una cuenta?",
+        "AlreadyAccSecond": "Inicia sesión",
+        "LogOutTxt": "Has cerrado sesión correctamente 👋",
+        "OtpText": "Código de verificación",
+        "OtpPlaceHolder": "Ingrese el código de verificación",
+        "OtpBtnTxt": "Verificar correo electrónico",
+        "FormFullNamePlaceHolder": "Nombre",
+        "FormInputFullName": "Ingrese el nombre",
+        "FormLastNamePlaceHolder": "Apellido",
+        "FormInputLastName": "Ingrese el apellido"
+    },
+    "LanguageMessage": {
+        "LanguageChanged": "Idioma cambiado",
+        "LanguageChangedDescription": "Se ha cambiado el idioma a español"
+    },
+    "ChooseLanguage": {
+        "Close": "Cerrar",
+        "ChangeLanguage": "Cambiar idioma"
+    },
+    "FormValidation": {
+        "EmailInvalid": "La dirección de correo electrónico es incorrecta",
+        "PasswordInvalid": "La contraseña es demasiado corta",
+        "Required": "Requerido",
+        "UsernameMinLength": "nombre y apellido"
+    },
+    "Tabs": {
+        "Home": "Inicio",
+        "Discover": "Descubrir",
+        "History": "Historial",
+        "Settings": "Configuración"
+    },
+    "Home": {
+        "Welcome": "Bienvenido"
+    }
+}

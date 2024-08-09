@@ -1,0 +1,67 @@
+{
+    "Onboarding": {
+        "Text1": "Uygulamayı keşfedin",
+        "Text2": "Uygulamada nasıl devam etmek istediğinizi seçin.",
+        "Text3": "Giriş Yap",
+        "Text4": "Hesap oluştur"
+    },
+    "Auth": {
+        "LoginText": "Giriş yap",
+        "LoginDescription": "Hoş geldiniz! Hizmetlerimize erişmek için giriş yapın.",
+        "RegisterText": "Kayıt ol",
+        "RegisterDescription": "Hesabınız yok mu? Şimdi kaydolun!",
+        "LoginSuccess": "Giriş başarılı",
+        "LoginSuccessSecond": "Keyifli vakit geçirin! 👋",
+        "LoginFailed": "Giriş başarısız",
+        "LoginFailedSecond": "Bir hata oluştu. Lütfen tekrar deneyin.",
+        "BtnText": "Kayıt ol",
+        "RegistrationSuccess": "Kayıt başarılı",
+        "RegistrationSuccessSecond": "Başarıyla kayıt oldunuz.",
+        "RegistrationFailed": "Kayıt başarısız",
+        "RegistrationFailedSecond": "Bir hata oluştu. Lütfen tekrar deneyin.",
+        "FormTitle": "Şimdi giriş yap",
+        "FormInputEmail": "E-posta adresinizi girin",
+        "FormInputPassword": "Şifrenizi girin",
+        "FormButtonTitle": "Giriş yap",
+        "FormEmailPlaceHolder": "E-posta",
+        "FormPasswordPlaceHolder": "Şifre",
+        "FormForgotPass": "Şifremi Unuttum?",
+        "OrTxt": "Veya ile giriş yap",
+        "NoAccountTxt": "Hesabınız yok mu?",
+        "RegisterNowTxt": "Şimdi kaydol",
+        "TOSTXT": "Şartları ve gizlilik politikasını kabul ediyorum",
+        "AlreadyAcc": "Zaten hesabınız var mı?",
+        "AlreadyAccSecond": "Giriş yapın",
+        "LogOutTxt": "Başarıyla çıkış yaptınız 👋",
+        "OtpText": "Doğrulama Kodu",
+        "OtpPlaceHolder": "Doğrulama kodunu girin",
+        "OtpBtnTxt": "E-posta doğrula",
+        "FormFullNamePlaceHolder": "Ad",
+        "FormInputFullName": "Adınızı girin",
+        "FormLastNamePlaceHolder": "Soyad",
+        "FormInputLastName": "Soyadınızı girin"
+    },
+    "LanguageMessage": {
+        "LanguageChanged": "Dil değiştirildi",
+        "LanguageChangedDescription": "Dil Türkçe olarak değiştirildi"
+    },
+    "ChooseLanguage": {
+        "Close": "Kapat",
+        "ChangeLanguage": "Dili değiştir"
+    },
+    "FormValidation": {
+        "EmailInvalid": "E-posta adresi geçersiz",
+        "PasswordInvalid": "Şifre çok kısa",
+        "Required": "Zorunlu alan",
+        "UsernameMinLength": "ad ve soyad"
+    },
+    "Tabs": {
+        "Home": "Anasayfa",
+        "Discover": "Keşfet",
+        "History": "Geçmiş",
+        "Settings": "Ayarlar"
+    },
+    "Home": {
+        "Welcome": "Hoşgeldiniz"
+    }
+}

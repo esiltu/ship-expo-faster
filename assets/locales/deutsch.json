@@ -1,0 +1,67 @@
+{
+    "Onboarding": {
+        "Text1": "Entdecken Sie die App",
+        "Text2": "Wählen Sie, wie Sie in der App fortfahren möchten.",
+        "Text3": "Einloggen",
+        "Text4": "Konto erstellen"
+    },
+    "Auth": {
+        "LoginText": "Anmelden",
+        "LoginDescription": "Willkommen! Melden Sie sich an, um auf unsere Dienste zuzugreifen.",
+        "RegisterText": "Registrieren",
+        "RegisterDescription": "Sie haben noch kein Konto? Jetzt registrieren!",
+        "LoginSuccess": "Anmeldung erfolgreich",
+        "LoginSuccessSecond": "Viel Spaß! 👋",
+        "LoginFailed": "Anmeldung fehlgeschlagen",
+        "LoginFailedSecond": "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
+        "BtnText": "Registrieren",
+        "RegistrationSuccess": "Registrierung erfolgreich",
+        "RegistrationSuccessSecond": "Sie haben sich erfolgreich registriert.",
+        "RegistrationFailed": "Registrierung fehlgeschlagen",
+        "RegistrationFailedSecond": "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
+        "FormTitle": "Jetzt anmelden",
+        "FormInputEmail": "E-Mail-Adresse eingeben",
+        "FormInputPassword": "Passwort eingeben",
+        "FormButtonTitle": "Anmelden",
+        "FormEmailPlaceHolder": "E-Mail",
+        "FormPasswordPlaceHolder": "Passwort",
+        "FormForgotPass": "Passwort vergessen?",
+        "OrTxt": "Oder einloggen mit",
+        "NoAccountTxt": "Kein Konto?",
+        "RegisterNowTxt": "Jetzt registrieren",
+        "TOSTXT": "Ich akzeptiere die Allgemeinen Geschäftsbedingungen und die Datenschutzrichtlinie",
+        "AlreadyAcc": "Bereits ein Konto?",
+        "AlreadyAccSecond": "Einloggen",
+        "LogOutTxt": "Sie haben sich erfolgreich ausgeloggt 👋",
+        "OtpText": "Verifizierungscode",
+        "OtpPlaceHolder": "Verifizierungscode eingeben",
+        "OtpBtnTxt": "E-Mail verifizieren",
+        "FormFullNamePlaceHolder": "Vorname",
+        "FormInputFullName": "Geben Sie den Vornamen ein",
+        "FormLastNamePlaceHolder": "Nachname",
+        "FormInputLastName": "Geben Sie den Nachnamen ein"
+    },
+    "LanguageMessage": {
+        "LanguageChanged": "Sprache geändert",
+        "LanguageChangedDescription": "Die Sprache wurde auf Deutsch geändert"
+    },
+    "ChooseLanguage": {
+        "Close": "Schließen",
+        "ChangeLanguage": "Sprache ändern"
+    },
+    "FormValidation": {
+        "EmailInvalid": "Die E-Mail-Adresse ist ungültig",
+        "PasswordInvalid": "Das Passwort ist zu kurz",
+        "Required": "Erforderlich",
+        "UsernameMinLength": "Vor- und Nachname"
+    },
+    "Tabs": {
+        "Home": "Startseite",
+        "Discover": "Entdecken",
+        "History": "Verlauf",
+        "Settings": "Einstellungen"
+    },
+    "Home": {
+        "Welcome": "Willkommen"
+    }
+}

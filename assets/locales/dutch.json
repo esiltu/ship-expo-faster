@@ -1,0 +1,67 @@
+{
+    "Onboarding": {
+        "Text1": "Verken de app",
+        "Text2": "Kies hoe je verder wilt gaan in de app.",
+        "Text3": "Inloggen",
+        "Text4": "Account aanmaken"
+    },
+    "Auth": {
+        "LoginText": "Inloggen",
+        "LoginDescription": "Welkom! Log in om toegang te krijgen tot onze diensten.",
+        "RegisterText": "Registreren",
+        "RegisterDescription": "Heb je geen account? Meld je nu aan!",
+        "LoginSuccess": "Succesvol ingelogd!",
+        "LoginSuccessSecond": "Veel plezier! 👋",
+        "LoginFailed": "Login Mislukt",
+        "LoginFailedSecond": "Er is een fout opgetreden. Probeer het opnieuw.",
+        "BtnText": "Registreer",
+        "RegistrationSuccess": "Registratie Succesvol",
+        "RegistrationSuccessSecond": "Je bent succesvol geregistreerd.",
+        "RegistrationFailed": "Registratie Mislukt",
+        "RegistrationFailedSecond": "Er is een fout opgetreden. Probeer het opnieuw.",
+        "FormTitle": "Log nu in",
+        "FormInputEmail": "Voer e-mailadres in",
+        "FormInputPassword": "Voer wachtwoord in",
+        "FormButtonTitle": "Inloggen",
+        "FormEmailPlaceHolder": "Email",
+        "FormPasswordPlaceHolder": "Wachtwoord",
+        "FormForgotPass": "Wachtwoord vergeten?",
+        "OrTxt": "Of log in met",
+        "NoAccountTxt": "Geen account?",
+        "RegisterNowTxt": "Registreer nu",
+        "TOSTXT": "Ik accepteer de algemene voorwaarden en het privacybeleid",
+        "AlreadyAcc": "Heb je al een account?",
+        "AlreadyAccSecond": "Log in",
+        "LogOutTxt": "Je bent succesvol uitgelogd 👋",
+        "OtpText": "Verificatiecode",
+        "OtpPlaceHolder": "Voer verificatiecode in",
+        "OtpBtnTxt": "E-mail verifiëren",
+        "FormFullNamePlaceHolder": "Voornaam",
+        "FormInputFullName": "Voer voornaam in",
+        "FormLastNamePlaceHolder": "Achternaam",
+        "FormInputLastName": "Voer achternaam in"
+    },
+    "LanguageMessage": {
+        "LanguageChanged": "Taal veranderd",
+        "LanguageChangedDescription": "Taal is veranderd naar Nederlands"
+    },
+    "ChooseLanguage": {
+        "Close": "Sluit",
+        "ChangeLanguage": "Verander taal"
+    },
+    "FormValidation": {
+        "EmailInvalid": "E-mailadres klopt niet",
+        "PasswordInvalid": "Wachtwoord is te kort",
+        "Required": "Vereist",
+        "UsernameMinLength": "voor- en achternaam"
+    },
+    "Tabs": {
+        "Home": "Home",
+        "Discover": "Ontdekken",
+        "History": "Geschiedenis",
+        "Settings": "Instellingen"
+    },
+    "Home": {
+        "Welcome": "Welkom"
+    }
+}

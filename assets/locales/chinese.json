@@ -1,0 +1,67 @@
+{
+    "Onboarding": {
+        "Text1": "探索应用",
+        "Text2": "选择您想要继续的方式。",
+        "Text3": "登录",
+        "Text4": "创建帐户"
+    },
+    "Auth": {
+        "LoginText": "登录",
+        "LoginDescription": "欢迎！登录以访问我们的服务。",
+        "RegisterText": "注册",
+        "RegisterDescription": "还没有账户？立即注册！",
+        "LoginSuccess": "登录成功",
+        "LoginSuccessSecond": "尽情享受！👋",
+        "LoginFailed": "登录失败",
+        "LoginFailedSecond": "发生错误，请重试。",
+        "BtnText": "注册",
+        "RegistrationSuccess": "注册成功",
+        "RegistrationSuccessSecond": "您已成功注册。",
+        "RegistrationFailed": "注册失败",
+        "RegistrationFailedSecond": "发生错误，请重试。",
+        "FormTitle": "立即登录",
+        "FormInputEmail": "输入电子邮件地址",
+        "FormInputPassword": "输入密码",
+        "FormButtonTitle": "登录",
+        "FormEmailPlaceHolder": "电子邮件",
+        "FormPasswordPlaceHolder": "密码",
+        "FormForgotPass": "忘记密码？",
+        "OrTxt": "或登录",
+        "NoAccountTxt": "没有账户？",
+        "RegisterNowTxt": "立即注册",
+        "TOSTXT": "我接受条款和隐私政策",
+        "AlreadyAcc": "已有帐户？",
+        "AlreadyAccSecond": "登录",
+        "LogOutTxt": "您已成功登出 👋",
+        "OtpText": "验证码",
+        "OtpPlaceHolder": "输入验证码",
+        "OtpBtnTxt": "验证电子邮件",
+        "FormFullNamePlaceHolder": "名字",
+        "FormInputFullName": "请输入名字",
+        "FormLastNamePlaceHolder": "姓氏",
+        "FormInputLastName": "请输入姓氏"
+    },
+    "LanguageMessage": {
+        "LanguageChanged": "语言已更改",
+        "LanguageChangedDescription": "语言已更改为中文"
+    },
+    "ChooseLanguage": {
+        "Close": "关闭",
+        "ChangeLanguage": "更改语言"
+    },
+    "FormValidation": {
+        "EmailInvalid": "电子邮件地址不正确",
+        "PasswordInvalid": "密码太短",
+        "Required": "必填",
+        "UsernameMinLength": "名和姓"
+    },
+    "Tabs": {
+        "Home": "首页",
+        "Discover": "发现",
+        "History": "历史",
+        "Settings": "设置"
+    },
+    "Home": {
+        "Welcome": "欢迎"
+    }
+}

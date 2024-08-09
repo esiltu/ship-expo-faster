@@ -1,0 +1,67 @@
+{
+    "Onboarding": {
+        "Text1": "Explorez l'application",
+        "Text2": "Choisissez comment vous voulez continuer dans l'application.",
+        "Text3": "Se connecter",
+        "Text4": "Créer un compte"
+    },
+    "Auth": {
+        "LoginText": "Connexion",
+        "LoginDescription": "Bienvenue ! Connectez-vous pour accéder à nos services.",
+        "RegisterText": "S'inscrire",
+        "RegisterDescription": "Vous n'avez pas de compte ? Inscrivez-vous maintenant !",
+        "LoginSuccess": "Connexion réussie",
+        "LoginSuccessSecond": "Profitez-en ! 👋",
+        "LoginFailed": "Échec de la connexion",
+        "LoginFailedSecond": "Une erreur s'est produite. Veuillez réessayer.",
+        "BtnText": "S'inscrire",
+        "RegistrationSuccess": "Inscription réussie",
+        "RegistrationSuccessSecond": "Vous vous êtes inscrit avec succès.",
+        "RegistrationFailed": "Échec de l'inscription",
+        "RegistrationFailedSecond": "Une erreur s'est produite. Veuillez réessayer.",
+        "FormTitle": "Connectez-vous maintenant",
+        "FormInputEmail": "Entrez votre adresse e-mail",
+        "FormInputPassword": "Entrez votre mot de passe",
+        "FormButtonTitle": "Connexion",
+        "FormEmailPlaceHolder": "E-mail",
+        "FormPasswordPlaceHolder": "Mot de passe",
+        "FormForgotPass": "Mot de passe oublié ?",
+        "OrTxt": "Ou connectez-vous avec",
+        "NoAccountTxt": "Pas de compte ?",
+        "RegisterNowTxt": "Inscrivez-vous maintenant",
+        "TOSTXT": "J'accepte les conditions générales et la politique de confidentialité",
+        "AlreadyAcc": "Vous avez déjà un compte ?",
+        "AlreadyAccSecond": "Connectez-vous",
+        "LogOutTxt": "Vous vous êtes déconnecté avec succès 👋",
+        "OtpText": "Code de vérification",
+        "OtpPlaceHolder": "Entrez le code de vérification",
+        "OtpBtnTxt": "Vérifier l'email",
+        "FormFullNamePlaceHolder": "Prénom",
+        "FormInputFullName": "Entrez le prénom",
+        "FormLastNamePlaceHolder": "Nom de famille",
+        "FormInputLastName": "Entrez le nom de famille"
+    },
+    "LanguageMessage": {
+        "LanguageChanged": "Langue changée",
+        "LanguageChangedDescription": "La langue a été changée en français"
+    },
+    "ChooseLanguage": {
+        "Close": "Fermer",
+        "ChangeLanguage": "Changer de langue"
+    },
+    "FormValidation": {
+        "EmailInvalid": "L'adresse e-mail est incorrecte",
+        "PasswordInvalid": "Le mot de passe est trop court",
+        "Required": "Requis",
+        "UsernameMinLength": "prénom et nom de famille"
+    },
+    "Tabs": {
+        "Home": "Accueil",
+        "Discover": "Découvrir",
+        "History": "Historique",
+        "Settings": "Paramètres"
+    },
+    "Home": {
+        "Welcome": "Bienvenue"
+    }
+}

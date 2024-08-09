@@ -1,0 +1,67 @@
+{
+    "Onboarding": {
+        "Text1": "Explore the app",
+        "Text2": "Choose how you want to go further in the app.",
+        "Text3": "Sign In",
+        "Text4": "Create account"
+    },
+    "Auth": {
+        "LoginText": "Login",
+        "LoginDescription": "Welcome! Log in to access our services.",
+        "RegisterText": "Register",
+        "RegisterDescription": "Don't have an account? Sign up now!",
+        "LoginSuccess": "Login Successful",
+        "LoginSuccessSecond": "Enjoy it! 👋",
+        "LoginFailed": "Login Failed",
+        "LoginFailedSecond": "An error occurred. Please try again.",
+        "BtnText": "Register",
+        "RegistrationSuccess": "Registration Successful",
+        "RegistrationSuccessSecond": "You have successfully registered.",
+        "RegistrationFailed": "Registration Failed",
+        "RegistrationFailedSecond": "An error occurred. Please try again.",
+        "FormTitle": "Log in now",
+        "FormInputEmail": "Enter email address",
+        "FormInputPassword": "Enter password",
+        "FormButtonTitle": "Login",
+        "FormEmailPlaceHolder": "E-Mail",
+        "FormPasswordPlaceHolder": "Password",
+        "FormForgotPass": "Forgot Password?",
+        "OrTxt": "Or login with",
+        "NoAccountTxt": "No account?",
+        "RegisterNowTxt": "Register now",
+        "TOSTXT": "I accept the terms and privacy policy",
+        "AlreadyAcc": "Already have an account?",
+        "AlreadyAccSecond": "Log in",
+        "LogOutTxt": "You have successfully logged out 👋",
+        "OtpText": "Verification Code",
+        "OtpPlaceHolder": "Enter verification code",
+        "OtpBtnTxt": "Verify Email",
+        "FormFullNamePlaceHolder": "First Name",
+        "FormInputFullName": "Enter first name",
+        "FormLastNamePlaceHolder": "Last Name",
+        "FormInputLastName": "Enter last name"
+    },
+    "LanguageMessage": {
+        "LanguageChanged": "Language Changed",
+        "LanguageChangedDescription": "The language has been changed to English"
+    },
+    "ChooseLanguage": {
+        "Close": "Close",
+        "ChangeLanguage": "Change language"
+    },
+    "FormValidation": {
+        "EmailInvalid": "Email address is incorrect",
+        "PasswordInvalid": "Password is too short",
+        "Required": "Required",
+        "UsernameMinLength": "first and last name"
+    },
+    "Tabs": {
+        "Home": "Home",
+        "Discover": "Discover",
+        "History": "History",
+        "Settings": "Settings"
+    },
+    "Home": {
+        "Welcome": "Welcome"
+    }
+}
