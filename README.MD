@@ -12,6 +12,7 @@
   - [Custom Components](#custom-components)
   - [Localization](#localization)
   - [Custom App Icons](#custom-app-icons)
+- [Expo Prebuild](#expo-prebuild)
 - [Pages Included](#pages-included)
 - [Setup Instructions](#setup-instructions)
   - [Environment Variables](#environment-variables)
@@ -50,6 +51,15 @@ Supports up to 8 languages across all pages, allowing your app to reach a broade
 ### Custom App Icons
 Choose custom app icons tailored for your customers, giving your app a unique and professional appearance.
 
+## Expo Prebuild
+
+This template uses Expo Prebuild to streamline the setup process and ensure a smoother build experience. **Note**: Since this is a custom build, you need to run `expo prebuild` to generate the native code and configurations necessary for the app to run.
+
+### Pros of Expo Prebuild
+- **Automated Native Code Generation**: Simplifies the process of generating and configuring native code, reducing manual setup.
+- **Consistent Environments**: Ensures that your native code and dependencies are consistent across different development environments.
+- **Faster Builds**: Speeds up the build process by preconfiguring the native setup, allowing you to focus on app development rather than configuration.
+
 ## Pages Included
 This template comes with a full suite of pre-built pages:
 - **Onboarding**
@@ -63,7 +73,6 @@ This template comes with a full suite of pre-built pages:
 ### Environment Variables
 To get started, create a `.env` file in the root directory of your project and set the following environment variable:
 ``EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=``
-
 
 ### Clerk Authentication Setup
 To run this app, you need to create an account on [Clerk](https://clerk.dev). After creating an account, set up a new application with only email and username. Navigate to the "Expo" section on your Clerk dashboard to find your publishable key.
@@ -79,7 +88,6 @@ To run this app, you need to create an account on [Clerk](https://clerk.dev). Af
 
 ### Cons
 - **Limited to Clerk Authentication**: The template is tightly integrated with Clerk, so switching to a different authentication provider may require additional setup.
-
 
 ## App Preview 📱
 
