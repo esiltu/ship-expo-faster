@@ -82,3 +82,6 @@ To run this app, you need to create an account on [Clerk](https://clerk.dev). Af
 
 
 ## App Preview 📱
+
+(https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/login.png)
+(https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/register.png)
