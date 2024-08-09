@@ -83,11 +83,11 @@ To run this app, you need to create an account on [Clerk](https://clerk.dev). Af
 
 ## App Preview 📱
 
-![Change Language Tabs](https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/change_language_tabs.png)
-![Chinese i18n Showcase](https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/chinese-i18n-showcase.png)
-![Home Tabs](https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/home_tabs.png)
-![Login](https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/login.png)
-![Onboarding](https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/onboarding.png)
-![OTP Code Page](https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/otp-code-page.png)
-![Register](https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/register.png)
-![Settings Tabs](https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/settings_tabs.png)
+<img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/change_language_tabs.png" width="300" alt="Change Language Tabs" />
+<img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/chinese-i18n-showcase.png" width="300" alt="Chinese i18n Showcase" />
+<img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/home_tabs.png" width="300" alt="Home Tabs" />
+<img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/login.png" width="300" alt="Login" />
+<img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/onboarding.png" width="300" alt="Onboarding" />
+<img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/otp-code-page.png" width="300" alt="OTP Code Page" />
+<img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/register.png" width="300" alt="Register" />
+<img src="https://github.com/esiltu/ship-expo-faster/blob/main/assets/app-preview/settings_tabs.png" width="300" alt="Settings Tabs" />
